@@ -1,2 +1,2 @@
-# ss
-ss is a site development kit.
+# s
+s is a site development kit.
